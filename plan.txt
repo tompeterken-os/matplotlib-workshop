@@ -1,0 +1,40 @@
+PART 1: FIGURES AND AXES
+- Matplotlib the quick way or the proper way
+- Creating a Figure with one Axes
+- Creating a Figure with multiple Axes
+-- Control over Axes selection in plotting
+
+PART 2: BASIC PLOTTING AND IMAGE DISPLAY
+- ax.plot
+- Color, line, symbol control
+- Setting titles and labels
+- Adding a legend
+- ax.scatter
+- Marker sizes and colours
+- ax.imshow
+- Colorbars and colour scales
+- Image and data coords
+-- extents and axes limits
+
+PART 3: COMMON DATAVIZ TASKS AND PLOT TYPES
+- Scatter over image
+- contours
+- Histograms
+
+PART 4: AESTHETIC CONTROL; COLOURS, FONTS, LABELS, LEGENDS, COLOUR BARS
+- Axis scaling
+- Linewidths
+- Hspan, Hlines
+- Grid toggling
+- zorder, alpha
+- Subplots: figsize, sharex/sharey, hspace, wspace, width_ratios
+
+PART 5: PANDAS, GEOPANDAS, AND CONTEXTILY
+axis toggling
+showing scattered points, lines and polygons
+choropleths
+scatter plot over outlines
+Adding backdrop
+
+
+zoom indicator
